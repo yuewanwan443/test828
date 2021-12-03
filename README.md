@@ -10,7 +10,7 @@
 ![构建结果](./images/javaMavenDemo-构建截图.PNG)
 
 ## 流水线相关
-https://www.baidu.com
+https://learngitbranching.js.org/?locale=zh_CN
 - 是否支持自动创建流水线：**不支持**
 
 - 流水线配置结构
